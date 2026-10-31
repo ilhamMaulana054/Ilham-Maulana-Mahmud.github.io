@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- Foto Profil -->
+
+<img src="https://raw.githubusercontent.com/ilhamMaulana054/Ilham-Maulana-Mahmud.github.io/main/Pas%20Foto.Png" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Ilham Maulana Mahmud"/>
+
 # 👨‍💻 Ilham Maulana Mahmud
 ### **AI-Focused Informatics Graduate | Web Developer | IT Operations**
 📍 **Bandung, West Java, Indonesia**
