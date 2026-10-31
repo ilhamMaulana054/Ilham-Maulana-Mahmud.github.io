@@ -1,6 +1,6 @@
 **👨‍💻 Ilham Maulana Mahmud**
 
-📍 Bandung, West Java, Indonesia | ✉️ ilham.m.m.m324@gmail.com | 🔗 LinkedIn
+📍 Bandung, West Java, Indonesia | ✉️ ilham.m.m.m324@gmail.com | 🔗 LinkedIn [linkedin.com/in/ilham-maulana-mahmud-3a7387220](https://linkedin.com/in/ilham-maulana-mahmud-3a7387220)
 
 🌟 Professional Summary
 
