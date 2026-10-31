@@ -145,32 +145,16 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhamMaulana054&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamMaulana054&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhamMaulana054/ilhamMaulana054/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhamMaulana054/ilhamMaulana054/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ilhamMaulana054/ilhamMaulana054/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+<h3>🤝 Let's Connect & Collaborate!</h3>
 
-I am actively seeking opportunities in **AI/ML Engineering**, **Web Development**, **Data Analysis**, and **IT Support.**  
-Feel free to reach out via any platform below:
+<p>
+  I am actively seeking opportunities in <b>AI/ML Engineering</b>, <b>Web Development</b>, <b>Data Analysis</b>, and <b>IT Support</b>.<br>
+  Feel free to reach out via any platform below:
+</p>
 
-<p align="center">
+<p>
   <a href="mailto:ilham.m.m324@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -184,10 +168,12 @@ Feel free to reach out via any platform below:
   </a>
 </p>
 
-<br />
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ilhamMaulana054&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=ilhamMaulana054&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<sub>© 2026 Ilham Maulana Mahmud • Crafted with passion for technology & innovation.</sub>
+<br><br>
+
+<p><sub>© 2026 Ilham Maulana Mahmud • Crafted with passion for technology & innovation.</sub></p>
 
 </div>
