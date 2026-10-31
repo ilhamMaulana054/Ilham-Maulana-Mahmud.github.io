@@ -8,7 +8,7 @@
 <br/><br/>
 
 <!-- Profile Photo -->
-<img src="https://raw.githubusercontent.com/ilhamMaulana054/Ilham-Maulana-Mahmud.github.io/main/Pas%20Foto.png" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Ilham Maulana Mahmud"/>
+<img src="https://raw.githubusercontent.com/ilhamMaulana054/Ilham-Maulana-Mahmud.github.io/main/Pas%20Foto.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; object-position: top;" alt="Ilham Maulana Mahmud"/>
 
 <h1>👨‍💻 Ilham Maulana Mahmud</h1>
 <h3><b>AI-Focused Informatics Graduate | Web Developer | IT Operations</b></h3>
@@ -48,7 +48,7 @@
 
 ## 🚀 Highlighted Projects
 
-### 🤟 [SIBI Sign Language Letter Classification Using Landmark Features & LSTM](https://drive.google.com/drive/folders/19Py7jgk8627jnIVfoe8VzykzelrpSTN?usp=drive_link)
+### 🤟 Classification of SIBI Sign Language Letter Frames Using Landmark Features and Long Short-Term Memory (LSTM)
 *Undergraduate Thesis – Universitas Jenderal Achmad Yani*
 - **Problem:** Sign language recognition often struggles with temporal movement accuracy and computational load.
 - **Solution:** Built a real-time SIBI alphabet classification pipeline leveraging landmark feature extraction with **MediaPipe** and sequential pattern recognition using **LSTM (TensorFlow)**.
@@ -56,13 +56,28 @@
 
 ---
 
-### 🏢 [Integrated Personnel & Inventory Management System](https://drive.google.com/drive/folders/luahNagZkUjxRx4NkJqFXQ6KsEltZ91CB?usp=drive_link)
+### 🏢 DESIGN AND DEVELOPMENT OF AN INTEGRATED WEB-BASED INFORMATION SYSTEM FOR PERSONNEL DATA AND INVENTORY MANAGEMENT AT THE REGIONAL OFFICE OF THE DIRECTORATE GENERAL OF IMMIGRATION IN WEST JAVA
 *National Internship – Regional Office of the Directorate General of Immigration, West Java*
 - **Impact:** Digitized internal office assets and employee workflows to improve administrative efficiency across multiple user tiers.
 - **Features:** Developed multi-role Access Control (RBAC), database management, and responsive front-end interfaces.
 - **Tech Stack:** `PHP`, `JavaScript`, `MySQL`, `HTML5/CSS3`, `REST API`, `Git`
 
 ---
+
+### 📊 [Information System for Polri Index Norms (Norma Indeks Polri) FY 2025](#)
+*Internship – Planning and Budgeting Bureau (Rorena / Bagrenprogar), West Java Regional Police (Polda Jabar)*.
+- **Impact:** Digitized institutional budget planning workflows and fund management recapitulation to automate manual evaluation processes.
+- **Features:** Implemented automatic data validation and financial reporting modules to ensure high accuracy before leadership review.
+- **Tech Stack:** `PHP`, `MySQL`, `JavaScript`, `HTML5/CSS3`, `Data Processing
+
+---
+
+### 🚆 [Train Ticket Reservation System (Sistem Pemesanan Tiket Kereta Api)](#)
+*Software Implementation Course Final Project – Universitas Jenderal Achmad Yani*
+- **Problem:** Conventional ticket purchasing workflows often face long queues and inefficient schedule management.
+- **Solution:** Designed and implemented an end-to-end web-based train ticketing system following software engineering standards, including UML modeling, database schema design, and full-stack development.
+- **Features:** Real-time train route selection, seat availability checker, booking transaction handling, and printable e-ticket generation.
+- **Tech Stack:** `PHP`, `MySQL`, `JavaScript`, `HTML5/CSS3`, `Bootstrap`
 
 ## 🛠️ Technical Skills
 
@@ -142,24 +157,6 @@
 
 - **S.Kom. in Informatics (Specialization in Artificial Intelligence)**  
   *Universitas Jenderal Achmad Yani* `(Sep 2021 – Sep 2025)`
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhamMaulana054&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamMaulana054&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhamMaulana054/ilhamMaulana054/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhamMaulana054/ilhamMaulana054/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ilhamMaulana054/ilhamMaulana054/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
