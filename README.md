@@ -10,14 +10,27 @@
 <!-- Profile Photo -->
 <img src="https://raw.githubusercontent.com/ilhamMaulana054/Ilham-Maulana-Mahmud.github.io/main/Pas%20Foto.png" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Ilham Maulana Mahmud"/>
 
-# 👨‍💻 Ilham Maulana Mahmud
-### **AI-Focused Informatics Graduate | Web Developer | IT Operations**
-📍 **Bandung, West Java, Indonesia**
+<h1>👨‍💻 Ilham Maulana Mahmud</h1>
+<h3><b>AI-Focused Informatics Graduate | Web Developer | IT Operations</b></h3>
+<p>📍 <b>Bandung, West Java, Indonesia</b></p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilham.m.m324@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilham-maulana-mahmud-3a7387220)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281809808561)
-[![View CV](https://img.shields.io/badge/📄_View_&_Download_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/10m-fYb-5On51RLB5scyROTvv4lKrRJK8?usp=drive_link)
+<p>
+  <a href="mailto:ilham.m.m324@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ilham-maulana-mahmud-3a7387220" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/6281809808561" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/drive/folders/10m-fYb-5On51RLB5scyROTvv4lKrRJK8?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_&_Download_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV"/>
+  </a>
+</p>
 
 </div>
 
@@ -129,6 +142,24 @@
 
 - **S.Kom. in Informatics (Specialization in Artificial Intelligence)**  
   *Universitas Jenderal Achmad Yani* `(Sep 2021 – Sep 2025)`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhamMaulana054&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamMaulana054&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhamMaulana054/ilhamMaulana054/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhamMaulana054/ilhamMaulana054/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ilhamMaulana054/ilhamMaulana054/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
